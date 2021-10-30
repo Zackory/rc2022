@@ -20,3 +20,7 @@ This is a graduate-level project-based course for students interested in physica
 
 ### Pre-Requisites
 Prior experience with the Python programming language is encouraged and extremely beneficial. 
+
+## Credit
+
+Earlier versions of this course were co-developed and co-instructed with [Prof. Charlie Kemp](https://charliekemp.com) at Georgia Tech. An adaptation of this course, [Robotic Caregivers](https://sites.gatech.edu/robotic-caregivers/), is still taught at Georgia Tech (as of Fall 2021).
