@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## 16-887: Robotic Caregivers and Intelligent Physical Collaboration
 
-You can use the [editor on GitHub](https://github.com/Zackory/rc2022/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Course Info
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Time**: Monday & Wednesday 1:25 - 2:45 PM  
+**Location**: NSH 3002  
+**Instructor**: [Zackory Erickson](https://zackory.com)  
+**Office Hours**: Wednesday 3 - 4 PM  
+**Course Questions and Discussion**: Slack -- Registered students will be added
 
-### Markdown
+### Course Description
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Robotics researchers and futurists have long dreamed of robots that can serve as caregivers. In this project-based course, you'll learn about intelligent physical human-robot collaboration and opportunities for robots that contribute to caregiving. You'll gain hands-on experience with teleoperation, autonomy, perception, navigation, manipulation, human-robot interaction, and machine learning. You'll also learn about robot design, collaborative research, and healthcare robotics.
 
-```markdown
-Syntax highlighted code block
+This is a graduate-level project-based course for students interested in physical human-robot collaboration and robotic caregiving. There are no exams nor textbook assignments. You will be working with a group of your peers to develop solutions to real-world problems in which robots physically interact with and assist people. There are two projects where you will work with real mobile manipulators and build on state-of-the-art methods from scientific literature, all leading to a live robot demonstration, presentation, and short paper to disseminate your results.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zackory/rc2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Pre-Requisites
+Prior experience with the Python programming language is encouraged and extremely beneficial. 
