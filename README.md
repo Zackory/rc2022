@@ -1,5 +1,7 @@
 # 16-887: Robotic Caregivers and Intelligent Physical Collaboration
 
+![RCICP](rcicp.png)
+
 ## Course Info
 
 **Time**: Monday & Wednesday 1:25 - 2:45 PM  
