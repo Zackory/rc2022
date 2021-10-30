@@ -1,4 +1,4 @@
-# 16-887: Robotic Caregivers and Intelligent Physical Collaboration
+# 16-887: Robotic Caregivers and Intelligent Physical Collaboration (Spring 2022)
 
 ![RCICP](rcicp.png)
 
