@@ -4,6 +4,8 @@
 
 ## Course Info
 
+[**Syllabus**](https://docs.google.com/document/d/1YuGsLEHY-cYkI0e8NIz5HTtkMquaZ6brL2-2ra0Hlp8/edit?usp=sharing)
+
 **Time**: Monday & Wednesday 1:25 - 2:45 PM  
 **Location**: NSH 3002  
 **Instructor**: [Zackory Erickson](https://zackory.com)  
