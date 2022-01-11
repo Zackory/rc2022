@@ -4,8 +4,8 @@
 
 ## Course Info
 
-[**Syllabus**](https://docs.google.com/document/d/1YuGsLEHY-cYkI0e8NIz5HTtkMquaZ6brL2-2ra0Hlp8/edit?usp=sharing)  
-[**Course Schedule**](https://docs.google.com/spreadsheets/d/1mzYdw8ZRwK1TIg1UjgW39zMpta80lcb8UypGLAgKtgU/edit?usp=sharing)
+#### [Syllabus](https://docs.google.com/document/d/1YuGsLEHY-cYkI0e8NIz5HTtkMquaZ6brL2-2ra0Hlp8/edit?usp=sharing)  
+#### [Course Schedule](https://docs.google.com/spreadsheets/d/1mzYdw8ZRwK1TIg1UjgW39zMpta80lcb8UypGLAgKtgU/edit?usp=sharing)
 
 **Time**: Monday & Wednesday 1:25 - 2:45 PM  
 **Location**: NSH 3002  
