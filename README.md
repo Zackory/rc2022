@@ -14,6 +14,8 @@
 **Office Hours**: Wednesday 2:45 - 3:45 PM  
 **Course Questions and Discussion**: Slack -- Registered students will be added
 
+---
+
 ## Final Projects
 
 ### Wearable Interface for Controlling a Collaborative Mobile Manipulator
@@ -31,6 +33,7 @@
 
 <img src="media/WeHelp_1.png" alt="WeHelp_1" width="45%"/> &emsp; <img src="media/WeHelp_2.png" alt="WeHelp_2" width="45%"/>
 
+---
 
 ## Course Description
 
