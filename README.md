@@ -24,12 +24,12 @@
 <img src="media/Wearable_1.png" alt="Wearable_1" width="45%"/> &emsp; <img src="media/Wearable_2.png" alt="Wearable_2" width="45%"/>
 
 ###  AquaBot: Assistive Drinking Robot for People with Mobility Impairments
-[Presentation PDF](media/AquaBot.pdf)
+[[Presentation PDF]](media/AquaBot.pdf)
 
 <img src="media/AquaBot_1.png" alt="AquaBot_1" width="45%"/> &emsp; <img src="media/AquaBot_2.png" alt="AquaBot_2" width="45%"/>
 
 ###   WeHelp: Wheelchair Helper
-[Presentation PDF](media/WeHelp.pdf)
+[[Presentation PDF]](media/WeHelp.pdf) | [[Code]](https://github.com/Walleclipse/WeHelp)
 
 <img src="media/WeHelp_1.png" alt="WeHelp_1" width="45%"/> &emsp; <img src="media/WeHelp_2.png" alt="WeHelp_2" width="45%"/>
 
