@@ -1,6 +1,6 @@
 # 16-887: Robotic Caregivers and Intelligent Physical Collaboration (Spring 2022)
 
-[![Robotic Caregivers Video](https://img.youtube.com/vi/mtlly5HlhX4/0.jpg)](https://www.youtube.com/watch?v=mtlly5HlhX4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mtlly5HlhX4" title="Robotic Caregivers at CMU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Course Info
 
