@@ -1,6 +1,6 @@
 # 16-887: Robotic Caregivers and Intelligent Physical Collaboration (Spring 2022)
 
-![RCICP](rcicp.png)
+[![Robotic Caregivers Video](https://img.youtube.com/vi/mtlly5HlhX4/0.jpg)](https://www.youtube.com/watch?v=mtlly5HlhX4)
 
 ## Course Info
 
@@ -47,3 +47,5 @@ Prior experience with the Python programming language is encouraged and extremel
 ## Credit
 
 Earlier versions of this course were co-developed and co-instructed with [Prof. Charlie Kemp](https://charliekemp.com) at Georgia Tech. An adaptation of this course, [Robotic Caregivers](https://sites.gatech.edu/robotic-caregivers/), is still taught at Georgia Tech (as of Fall 2021).
+
+![RCICP](rcicp.png)
