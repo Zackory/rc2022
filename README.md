@@ -22,6 +22,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mtlly5HlhX4" title="Robotic Caregivers at CMU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+
 ## Course Info
 
 #### [Syllabus](https://docs.google.com/document/d/1YuGsLEHY-cYkI0e8NIz5HTtkMquaZ6brL2-2ra0Hlp8/edit?usp=sharing)  
